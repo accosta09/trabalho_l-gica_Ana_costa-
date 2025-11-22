@@ -1,2 +1,2 @@
-# trabalho_l-gica_Ana_costa-
+# trabalho_lógica_Ana_costa-mariana
 Criação de um programa 
